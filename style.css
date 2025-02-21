@@ -1,0 +1,50 @@
+body{
+    font-family: 'rubik',sans-serif;
+    background-color: black;
+}
+.nama{
+    font-size: 39px;
+}
+h1{
+    color: #90e5e6;
+}
+.Muha{
+    font-family: 'Cormorant SC',sans-serif;
+    font-weight: 400;
+    position: absolute;
+    left: 10vh;
+    top: 45vh;
+}
+.Mma,.aul{
+    font-style: italic;
+}
+.Akbar{
+    font-family: 'Cormorant SC',sans-serif;
+    font-weight: 600;
+    position: absolute;
+    left: 10vh;
+    top: 60vh;
+}
+.Maulana{
+    font-family: 'Cormorant SC',sans-serif;
+    font-weight: 400;
+    position: absolute;
+    left: 10vh;
+    top: 75vh;
+}
+.about{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100vh;
+}
+p{
+    color: white;
+    margin: 20vh 700px 10px 60px;
+    text-align: justify;
+    font-weight: 100;
+}
+.bold{
+    left: 20px;
+    font-weight: 550;
+}
